@@ -1,7 +1,6 @@
 # Vue2.0全家桶仿腾讯新闻
 刚接触Vue，就自己动手撸了一个项目，项目可能不成熟，请大家多提意见
 
-## 在线预览  [Vue之仿腾讯新闻](https://designdacity.github.io/news-preview/)
 ## 源码地址 [Github](https://github.com/designdacity/vue-news) 欢迎大家star和fork :blush:
 # 描述
 
